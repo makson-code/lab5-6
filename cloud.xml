@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cloud>
+    <service>
+        <name>Виртуальная машина 1 vCPU / 1 ГБ</name>
+        <provider>Evolution Compute</provider>
+        <price>248</price>
+    </service>
+    <service>
+        <name>Виртуальная машина 4 vCPU / 16 ГБ</name>
+        <provider>Evolution Compute</provider>
+        <price>4774</price>
+    </service>
+    <service>
+        <name>Виртуальная машина 8 vCPU / 32 ГБ</name>
+        <provider>Evolution Compute</provider>
+        <price>9548</price>
+    </service>
+    <service>
+        <name>Диск SSD NVMe (1 ГБ)</name>
+        <provider>Evolution Storage</provider>
+        <price>9.5</price>
+    </service>
+    <service>
+        <name>Диск HDD (1 ГБ)</name>
+        <provider>Evolution Storage</provider>
+        <price>2.6</price>
+    </service>
+    <service>
+        <name>Публичный IP-адрес</name>
+        <provider>Evolution Network</provider>
+        <price>124</price>
+    </service>
+    <service>
+        <name>Object Storage (S3) Стандарт</name>
+        <provider>Evolution Storage</provider>
+        <price>1.51</price>
+    </service>
+    <service>
+        <name>База данных PostgreSQL (1 vCPU)</name>
+        <provider>Managed Services</provider>
+        <price>1.22 / час</price>
+    </service>
+    <service>
+        <name>Сервер Bare Metal 4 x V100</name>
+        <provider>Evolution Bare Metal</provider>
+        <price>810 / час</price>
+    </service>
+    <service>
+        <name>Доступ к GigaChat 3 Pro</name>
+        <provider>AI Factory</provider>
+        <price>59.86</price>
+    </service>
+</cloud>
+
+
+
